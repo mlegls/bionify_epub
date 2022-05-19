@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="4fabd15b-c309-4ba4-a2d6-23055e822362" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>A Thousand Plateaus</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>DELEUZE GUATTARI</text>
+      </navLabel>
+      <content src="Text/Section1.html"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>a thousand plateaus</text>
+        </navLabel>
+        <content src="Text/Section1.html#sigil_toc_id_1"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Contents</text>
+      </navLabel>
+      <content src="Text/Section2.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Translator’s Foreword: Pleasures of Philosophy Brian Massumi</text>
+      </navLabel>
+      <content src="Text/Section3.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Notes on the Translation and Acknowledgments</text>
+      </navLabel>
+      <content src="Text/Section4.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Authors’ Note</text>
+      </navLabel>
+      <content src="Text/Section5.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>A Thousand Plateaus</text>
+      </navLabel>
+      <content src="Text/Section6.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>1914: One or Several Wolves?</text>
+      </navLabel>
+      <content src="Text/Section7.html"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>10,000 B.C: The Geology of Morals (Who Does the Earth Think It Is?)</text>
+      </navLabel>
+      <content src="Text/Section8.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>November 20, 1923 — Postulates of Linguistics</text>
+      </navLabel>
+      <content src="Text/Section9.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>587 B.c.-A.D. 70: On Several Regimes of Signs</text>
+      </navLabel>
+      <content src="Text/Section10.html"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>November 28, 1947: How Do You Make Yourself a Body without Organs?</text>
+      </navLabel>
+      <content src="Text/Section11.html"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Year Zero: Faciality</text>
+      </navLabel>
+      <content src="Text/Section12.html"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>1874: Three Novellas, or ‘What Happened?”</text>
+      </navLabel>
+      <content src="Text/Section0001.html"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>1933: Micropolitics and Segmentarity</text>
+      </navLabel>
+      <content src="Text/Section13.html"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>1730: Becoming-Intense, Becoming-Animal, Becoming-Imperceptible...</text>
+      </navLabel>
+      <content src="Text/Section14.html"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>1837: Of the Refrain</text>
+      </navLabel>
+      <content src="Text/Section20.html#sigil_toc_id_2"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>1227: Treatise on Nomadology — The War Machine</text>
+      </navLabel>
+      <content src="Text/Section15.html"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>7000 B.C.: Apparatus of Capture</text>
+      </navLabel>
+      <content src="Text/Section16.html"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>1440: The Smooth and the Striated</text>
+      </navLabel>
+      <content src="Text/Section21.html#sigil_toc_id_3"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Conclusion: Concrete Rules and Abstract Machines</text>
+      </navLabel>
+      <content src="Text/Section17.html"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Notes</text>
+      </navLabel>
+      <content src="Text/Section18.html"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Bibliography</text>
+      </navLabel>
+      <content src="Text/Section19.html"/>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>English</text>
+        </navLabel>
+        <content src="Text/Section19.html#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>French</text>
+        </navLabel>
+        <content src="Text/Section19.html#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Index</text>
+        </navLabel>
+        <content src="Text/Section19.html#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Illustrations</text>
+        </navLabel>
+        <content src="Text/Section19.html#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Authors</text>
+        </navLabel>
+        <content src="Text/Section19.html#sigil_toc_id_8"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

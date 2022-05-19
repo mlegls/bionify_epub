@@ -1,0 +1,53 @@
+use epub::doc::EpubDoc;
+use html_editor::operation::*;
+use html_editor::{parse, Element, Node};
+
+fn highlight(text: &str, portion: f32) -> Vec<Node> {
+    text.split(" ")
+        .flat_map(|word| {
+            let place = (word.len() as f32 * portion) as usize;
+            let front: String = word.chars().take(place).collect();
+            let back: String = word.chars().skip(place).collect();
+
+            [
+              Node::Element {
+                name: "b".to_string(),
+                attrs: vec![],
+                children: vec![Node::Text(front)],
+              },
+              Node::Text(back)
+            ]
+        })
+        .collect()
+}
+
+fn main() {
+    let doc = EpubDoc::new("in.epub");
+    assert!(doc.is_ok());
+    let mut doc = doc.unwrap();
+
+    let selector_p = Selector::from("p");
+
+    let resources = doc.spine.clone();
+    for resource in resources {
+        let mut content = doc.get_resource_str(&resource).unwrap();
+        let mut parsed = parse(&content).unwrap();
+
+        let processed: Vec<_> = parsed
+            .query_all(&selector_p)
+            .into_iter()
+            .map(|node| Element {
+                children: node
+                    .children
+                    .iter()
+                    .flat_map(|child| match child {
+                        Node::Text(text) => highlight(text, 0.5),
+                        element => vec![element.clone()],
+                    })
+                    .collect(),
+                ..node
+            }).collect();
+
+        println!("{:?}", processed);
+    }
+}

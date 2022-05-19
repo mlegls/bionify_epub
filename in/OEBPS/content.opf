@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:file-as="Deleuze, Gilles &amp; Guattari, Felix" opf:role="aut">Gilles Deleuze</dc:creator>
+    <dc:creator opf:role="aut">Felix Guattari</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">4fabd15b-c309-4ba4-a2d6-23055e822362</dc:identifier>
+    <meta content="2015-03-19T16:43:03+00:00" name="calibre:timestamp" />
+    <dc:contributor opf:role="bkp">calibre (2.20.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>1987-12-20T23:00:00+00:00</dc:date>
+    <meta content="Thousand Plateaus, A" name="calibre:title_sort" />
+    <meta content="0.8.2" name="Sigil version" />
+    <dc:date opf:event="modification">2015-03-20</dc:date>
+    <dc:publisher>A&amp;C Black</dc:publisher>
+    <meta content="8.0" name="calibre:rating" />
+    <dc:description>&lt;div&gt;&lt;p class="description"&gt;A rare and remarkable book.' Times Literary Supplement&lt;/p&gt;&lt;p class="description"&gt;Gilles Deleuze (1925-1995) was Professor of Philosophy at the University of Paris VIII. He is a key figure in poststructuralism, and one of the most influential philosophers of the twentieth century.Félix Guattari (1930-1992) was a psychoanalyst at the la Borde Clinic, as well as being a major social theorist and radical activist. A Thousand Plateaus is part of Deleuze and Guattari's landmark philosophical project, Capitalism and Schizophrenia - a project that still sets the terms of contemporary philosophical debate. A Thousand Plateaus provides a compelling analysis of social phenomena and offers fresh alternatives for thinking about philosophy and culture. Its radical perspective provides a toolbox for nomadic thought' and has had a galvanizing influence on today's anti-capitalist movement.Translated by Brian Massumi&amp;gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <meta content="{&quot;Felix Guattari&quot;: &quot;&quot;, &quot;Gilles Deleuze&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+    <dc:title>A Thousand Plateaus</dc:title>
+    <dc:subject>philosophy</dc:subject>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">4fabd15b-c309-4ba4-a2d6-23055e822362</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">B9xLrS6mpGoC</dc:identifier>
+    <dc:identifier opf:scheme="AMAZON">0816614024</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9780826476944</dc:identifier>
+    <meta name="cover" content="cover" />
+  </metadata>
+  <manifest>
+    <item href="Images/image_001.jpg" id="added" media-type="image/jpeg" />
+    <item href="Images/image_002.png" id="added1" media-type="image/png" />
+    <item href="Images/image_003.gif" id="added2" media-type="image/gif" />
+    <item href="Images/image_004.gif" id="added3" media-type="image/gif" />
+    <item href="Images/image_005.gif" id="added4" media-type="image/gif" />
+    <item href="Images/image_006.gif" id="added5" media-type="image/gif" />
+    <item href="Images/image_007.gif" id="added6" media-type="image/gif" />
+    <item href="Images/image_010.gif" id="added7" media-type="image/gif" />
+    <item href="Images/image_011.gif" id="added8" media-type="image/gif" />
+    <item href="Images/image_012.gif" id="added9" media-type="image/gif" />
+    <item href="Images/image_013.gif" id="added10" media-type="image/gif" />
+    <item href="Images/image_014.gif" id="added11" media-type="image/gif" />
+    <item href="Images/image_015.gif" id="added12" media-type="image/gif" />
+    <item href="Images/image_016.png" id="added13" media-type="image/png" />
+    <item href="Images/image_017.gif" id="added14" media-type="image/gif" />
+    <item href="Images/image_018.gif" id="added15" media-type="image/gif" />
+    <item href="Images/image_019.gif" id="added16" media-type="image/gif" />
+    <item href="Images/image_020.gif" id="added17" media-type="image/gif" />
+    <item href="Images/image_021.gif" id="added18" media-type="image/gif" />
+    <item href="Images/image_022.gif" id="added19" media-type="image/gif" />
+    <item href="Images/image_023.gif" id="added20" media-type="image/gif" />
+    <item href="Images/image_024.gif" id="added21" media-type="image/gif" />
+    <item href="Images/image_025.gif" id="added22" media-type="image/gif" />
+    <item href="Images/image_026.gif" id="added23" media-type="image/gif" />
+    <item href="Images/image_027.png" id="added24" media-type="image/png" />
+    <item href="Images/image_028.png" id="added25" media-type="image/png" />
+    <item href="Images/image_029.gif" id="added26" media-type="image/gif" />
+    <item href="Images/image_030.png" id="added27" media-type="image/png" />
+    <item href="Images/image_031.gif" id="added28" media-type="image/gif" />
+    <item href="Images/image_032.gif" id="added29" media-type="image/gif" />
+    <item href="Images/image_033.png" id="added30" media-type="image/png" />
+    <item href="Text/Section6.html" id="Section6.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section11.html" id="Section11.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section20.html" id="Section20.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section15.html" id="Section15.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section21.html" id="Section21.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section18.html" id="Section18.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section19.html" id="Section19.html" media-type="application/xhtml+xml" />
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css" />
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Text/Section17.html" id="Section17.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section1.html" id="Section1.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section2.html" id="Section2.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section3.html" id="Section3.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section4.html" id="Section4.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section5.html" id="Section5.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section7.html" id="Section7.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section0001.html" id="Section0001.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section13.html" id="Section13.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section8.html" id="Section8.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section9.html" id="Section9.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section10.html" id="Section10.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section12.html" id="Section12.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section14.html" id="Section14.html" media-type="application/xhtml+xml" />
+    <item href="Text/Section16.html" id="Section16.html" media-type="application/xhtml+xml" />
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg" />
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage" />
+    <itemref idref="Section1.html" />
+    <itemref idref="Section2.html" />
+    <itemref idref="Section3.html" />
+    <itemref idref="Section4.html" />
+    <itemref idref="Section5.html" />
+    <itemref idref="Section6.html" />
+    <itemref idref="Section7.html" />
+    <itemref idref="Section8.html" />
+    <itemref idref="Section9.html" />
+    <itemref idref="Section10.html" />
+    <itemref idref="Section11.html" />
+    <itemref idref="Section12.html" />
+    <itemref idref="Section0001.html" />
+    <itemref idref="Section13.html" />
+    <itemref idref="Section14.html" />
+    <itemref idref="Section20.html" />
+    <itemref idref="Section15.html" />
+    <itemref idref="Section16.html" />
+    <itemref idref="Section21.html" />
+    <itemref idref="Section17.html" />
+    <itemref idref="Section18.html" />
+    <itemref idref="Section19.html" />
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>
